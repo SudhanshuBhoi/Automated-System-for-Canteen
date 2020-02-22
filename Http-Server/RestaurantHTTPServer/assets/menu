@@ -1,0 +1,173 @@
+{
+  "items":
+    [
+      {
+          "category": "breakfast",
+          "description": "A delicious, traditional Indian breakfast: Poha (flattened rice) with potatoes and spices.",
+          "price": 15.0,
+          "image_url": "images/1.png",
+          "id": 1,
+          "name": "Poha"
+      },
+      {
+          "category": "breakfast",
+          "description": "Upma is made from suji or rawa called 'semolina' in English.",
+          "price": 15.0,
+          "image_url": "images/2.png",
+          "id": 2,
+          "name": "Upma"
+      },
+      {
+          "category": "indian snacks",
+          "description": "A samosa (/səˈmoʊsə/) is a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, meat, or lentils.",
+          "price": 10.0,
+          "image_url": "images/3.png",
+          "id": 3,
+          "name": "Samosa"
+      },
+      {
+          "category": "indian snacks",
+          "description": "Kachori is a spicy snack, originating from the Indian subcontinent, and common in places with Indian diaspora and other South Asian diaspora.",
+          "price": 10.0,
+          "image_url": "images/4.png",
+          "id": 4,
+          "name": "Kachori"
+      },
+      {
+          "category": "indian snacks",
+          "description": "A small flat cake or ball of vegetables, fried in batter.",
+          "price": 20.0,
+          "image_url": "images/5.png",
+          "id": 5,
+          "name": "Kanda Bhaji"
+      },
+      {
+          "category": "south indian",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 25.0,
+          "image_url": "images/6.png",
+          "id": 6,
+          "name": "Idli Sambar"
+      },
+      {
+          "category": "south indian",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 25.0,
+          "image_url": "images/7.png",
+          "id": 7,
+          "name": "Meduwada Sambar"
+      },
+      {
+          "category": "south indian",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 25.0,
+          "image_url": "images/8.png",
+          "id": 8,
+          "name": "Masala Dosa"
+      },
+      {
+          "category": "south indian",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 20.0,
+          "image_url": "images/9.png",
+          "id": 9,
+          "name": "Sada Dosa"
+      },
+      {
+          "category": "south indian",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 25.0,
+          "image_url": "images/10.png",
+          "id": 10,
+          "name": "Onion Uttappa"
+      },
+      {
+          "category": "sandwich",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 25.0,
+          "image_url": "images/11.png",
+          "id": 11,
+          "name": "Veg Sandwich"
+      },
+      {
+          "category": "sandwich",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 30.0,
+          "image_url": "images/12.png",
+          "id": 12,
+          "name": "Veg Cheese Sandwich"
+      },
+      {
+          "category": "sandwich",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 30.0,
+          "image_url": "images/13.png",
+          "id": 13,
+          "name": "Bread Butter Jam"
+      },
+      {
+          "category": "sandwich",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 35.0,
+          "image_url": "images/14.png",
+          "id": 14,
+          "name": "Club Sandwich"
+      },
+      {
+          "category": "sandwich",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 35.0,
+          "image_url": "images/15.png",
+          "id": 15,
+          "name": "Veg Sandwich Grill"
+      },
+      {
+          "category": "sandwich",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 40.0,
+          "image_url": "images/16.png",
+          "id": 16,
+          "name": "Veg Cheese Grill"
+      },
+      {
+          "category": "beverages",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 7.0,
+          "image_url": "images/17.png",
+          "id": 17,
+          "name": "Cutting Tea"
+      },
+      {
+          "category": "beverages",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 10.0,
+          "image_url": "images/18.png",
+          "id": 18,
+          "name": "Special Tea"
+      },
+      {
+          "category": "beverages",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 15.0,
+          "image_url": "images/19.png",
+          "id": 19,
+          "name": "Coffee"
+      },
+      {
+          "category": "beverages",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 15.0,
+          "image_url": "images/20.png",
+          "id": 20,
+          "name": "Milk"
+      },
+      {
+          "category": "beverages",
+          "description": "Pacific steelhead trout with lettuce, tomato, and red onion.",
+          "price": 20.0,
+          "image_url": "images/21.png",
+          "id": 21,
+          "name": "Bournvita"
+      }
+    ]
+}

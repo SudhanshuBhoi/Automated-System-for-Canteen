@@ -1,0 +1,101 @@
+{
+  "items":
+    [
+      {
+        "id": 1,
+        "preparation_time": 5
+      },
+      {
+        "id": 2,
+        "preparation_time": 5
+      },
+      {
+        "id": 3,
+        "preparation_time": 2
+      },
+      {
+        "id": 4,
+        "preparation_time": 2
+      },
+      {
+        "id": 5,
+        "preparation_time": 2
+      },
+      {
+        "id": 6,
+        "preparation_time": 25
+      },
+      {
+        "id": 7,
+        "preparation_time": 30
+      },
+      {
+        "id": 8,
+        "preparation_time": 12
+      },
+      {
+        "id": 9,
+        "preparation_time": 45
+      },
+      {
+        "id": 10,
+        "preparation_time": 40
+      },
+      {
+        "id": 11,
+        "preparation_time": 20
+      },
+      {
+        "id": 12,
+        "preparation_time": 25
+      },
+      {
+        "id": 13,
+        "preparation_time": 30
+      },
+      {
+        "id": 14,
+        "preparation_time": 12
+      },
+      {
+        "id": 15,
+        "preparation_time": 45
+      },
+      {
+        "id": 16,
+        "preparation_time": 40
+      },
+      {
+        "id": 17,
+        "preparation_time": 20
+      },
+      {
+        "id": 18,
+        "preparation_time": 25
+      },
+      {
+        "id": 19,
+        "preparation_time": 30
+      },
+      {
+        "id": 20,
+        "preparation_time": 12
+      },
+      {
+        "id": 21,
+        "preparation_time": 45
+      },
+      {
+        "id": 22,
+        "preparation_time": 40
+      },
+      {
+        "id": 23,
+        "preparation_time": 20
+      },
+      {
+        "id": 24,
+        "preparation_time": 25
+      }
+    ]
+}
