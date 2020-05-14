@@ -13,12 +13,17 @@ PICT Canteen is a place for all the college students to gather for a bite during
 **Mobile Application (for Students and Staff)** provides the user the ability to:
 * View food items available in the canteen
 * Order the items by selecting them and specifying the quantity required
+
+This repository contains Mobile Application part of the project.
+
 ---
 
 ## Mobile Application
-This repository contains the Mobile Application part of the project.
+#### Usage
 Build and run the application using Xcode for iOS and Android Studio for Android application.
 
 ### HTTP Server
 An example server serving the application's HTTP requests. It allows the admin to edit categories, menu items and their corresponding information.
+
+#### Usage
 Compile and run the HTTP server using Java.
